@@ -1,11 +1,11 @@
 {
-  "nombre": "Juan Pérez García",
+  "nombre": "Fredy Apolinario Alcocer",
   "datosPersonales": {
-    "nombre": "Juan Pérez García",
-    "mail": "juan.perez@email.com",
+    "nombre": "Fredy Apolinario Alcocer",
+    "mail": "fredyapolinario78@email.com",
     "telefono": "+34 123 456 789",
     "direccion": "Bilbao, España",
-    "lema": "Apasionado por la tecnología y el desarrollo web",
+    "lema": "Apasionado por la tecnología y seguridad en Redes",
     "fechaNacimiento": "1965-11-18"
   },
   "experiencia": [
@@ -96,7 +96,7 @@
     "descripcion": "Puedes contactarme a través de los siguientes medios"
   },
   "footer": {
-    "texto": "© 2025 Juan Pérez García"
+    "texto": "© 2025 Fredy Apolinario Alcocer"
   }
 }
 

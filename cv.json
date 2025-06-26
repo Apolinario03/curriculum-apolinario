@@ -3,14 +3,14 @@
   "datosPersonales": {
     "nombre": "Fredy Apolinario Alcocer",
     "mail": "fredyapolinario78@email.com",
-    "telefono": "+34 123 456 789",
-    "direccion": "Bilbao, España",
+    "telefono": "+34 614362726",
+    "direccion": "Hernani, España",
     "lema": "Apasionado por la tecnología y seguridad en Redes",
     "fechaNacimiento": "1965-11-18"
   },
   "experiencia": [
     {
-      "puesto": "Desarrollador Full Stack",
+      "puesto": "redes",
       "periodo": "2020 - Actualidad",
       "descripcion": "Desarrollo de aplicaciones web modernas",
       "funciones": [
@@ -42,16 +42,34 @@
   ],
   "formacion": [
     {
-      "titulo": "Máster en Desarrollo Web",
-      "horas": "600H",
-      "institucion": "Universidad de Deusto",
-      "temario": "JavaScript, React, Node.js, Bases de datos"
+      "titulo": " Computacion y Sistemas",
+      "horas": "5 años",
+      "institucion": "Universidad Americas",
+      "Temario": "Ingeniero"
     },
     {
-      "titulo": "Grado en Ingeniería Informática",
-      "horas": "240 ECTS",
-      "institucion": "Universidad del País Vasco",
-      "temario": "Programación, Algoritmos, Sistemas, Redes"
+      "titulo": "Computacion Informatica",
+      "horas": "3 años",
+      "institucion": "I.T.P. Concepcion",
+      "Temario": "Tecnico en Computacion"
+    },
+    {
+      "titulo": "Electricidad",
+      "horas": "3 años",
+      "institucion": "I.S.T. Andres A. Caseres",
+      "Temario": "Tecnico en Electricista"
+    },
+    {
+      "titulo": " redes en telefonica",
+      "horas": "6 meses",
+      "institucion": "Instituto de Enseñanza superior cesitel",
+      "Temario": "Tecnico en telefonica"
+    },
+    {
+      "titulo": "Ensamblaje de Computadoras",
+      "hora": "6 meses",
+      "institucion": "I.S.T. Cesca",
+      "Temario": "Tecnico "
     }
   ],
   "idiomas": [
